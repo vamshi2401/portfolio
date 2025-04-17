@@ -13,7 +13,6 @@ const Contact = () => {
           <a href="https://www.linkedin.com/in/vamshi-raj-v/" target="_blank" rel="noreferrer"  className="hover:text-white scale-150"><FaLinkedin /></a>
           <a href="mailto:vamshi1718@gmail.com" target="_blank" rel="noreferrer"  className="hover:text-white scale-150"> <FiMail /></a>
           
-          
         </div>
         <ul className="m-2 text-gray-500 ">
          <li><a href="#home" className="hover:text-white">Home</a></li> 
