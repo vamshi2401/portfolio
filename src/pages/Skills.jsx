@@ -10,6 +10,8 @@ import {
   SiMongodb,
   SiPandas,
   SiNumpy,
+  SiNodedotjs,
+  SiExpress
 
 } from "react-icons/si";
 import { PiFileSqlFill, } from "react-icons/pi";
@@ -25,7 +27,10 @@ const skills = {
     { name: "JavaScript", icon: <SiJavascript /> },
     { name: "ReactJS", icon: <SiReact /> },
   ],
-  Backend: [{ name: "Django", icon: <SiDjango /> }],
+  Backend: [{ name: "Django", icon: <SiDjango /> },
+    { name: "Node js", icon: <SiNodedotjs /> },
+    { name: "Express js", icon: <SiExpress /> }
+  ],
   Databases: [{ name: "MySQL", icon: <SiMysql /> },
   { name: "MongoDB", icon: <SiMongodb /> },
   ],

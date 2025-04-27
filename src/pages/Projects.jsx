@@ -65,6 +65,14 @@ const project = [
     >
       <FaGithub />
     </a>,
+    link: <a
+      href="https://vamshi2401.github.io/Planit/"
+      target="_blank"
+      rel="noopener noreferrer"
+      className=""
+    >
+      <FiExternalLink />
+    </a>,
 
 
     description: <span>A task management developed using JavaScript, HTML and CSS</span>
@@ -102,7 +110,7 @@ const project = [
 
     description: <span>Executed  SQL queries to analyze sales, profit, quantity trends, top-selling products and customer segments by aggregating and ranking sales </span>
   },
-  
+
 
 
 ]
