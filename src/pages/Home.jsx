@@ -15,7 +15,7 @@ const Home = () => {
 
           <div className="flex justify-center md:justify-start space-x-4">
             <a
-              href="/Resume_Vamshi.pdf"
+              href="/Resume_Vamshi_Raj.pdf"
               download
               className="px-6 py-2 rounded-full border-2 border-indigo-600 text-indigo-600 hover:bg-indigo-600 hover:text-white transition"
             >
